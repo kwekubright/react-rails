@@ -13,13 +13,13 @@ Configuration To view the source code;
 a) Clone the project
 
 ```terminal
-git@github.com:divinecharlotte/hello-rails-react.git
+https://github.com/kwekubright/react-rails.git
 ```
 
 b) View the folder - cd into the project directory
 
     ```terminal
-    cd hello-rails-react
+    cd react-rails
 
     Database initialization
 
@@ -28,12 +28,11 @@ c) Run migration rails db:migrate
 ```
 ## Authors
 
-👤 **Grace Muthui**
+Bright Ahiadeke
 
-- GitHub: [@Grayce Muthui](https://github.com/Graycemuthui)
-- Twitter: [@Grayce_Muthui](https://twitter.com/Grayce_Muthui)
-- LinkedIn: [@Grayce Muthui](http://www.linkedin.com/in/grayce-muthui-a17294226)
-
+- GitHub: [@kwekubright](https://github.com/kwekubright)
+- Twitter: [@kwekubright_](https://twitter.com/kwekubright_)
+- LinkedIn: [Bright ahiadeke](https://www.linkedin.com/in/kwekubright/)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
@@ -46,5 +45,5 @@ Hat tip to anyone whose code was used.
 
 ## 📝 License
 
-This project is [MIT](https://github.com/Graycemuthui/React-rails/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/kwekubright/LICENSE) licensed.
 ```
